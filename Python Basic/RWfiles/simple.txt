@@ -1,0 +1,1 @@
+Writing ?? on simple text.This is another fw.write()
